@@ -54,9 +54,10 @@ Explore more projects and tools on my website! For a detailed list of my project
 ---
 
 ## 💖 Support My Work
-Do you enjoy my projects or find them helpful? Consider supporting me on Ko-fi! Your contributions help me dedicate more time to developing awesome tools and open-source projects.
+Do you enjoy my projects or find them helpful? Consider supporting me on Ko-fi! Your contributions help me dedicate more time to developing awesome tools and open-source projects.  
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/digreatbrian)
+
+[![Ko-fi](./support_me_on_kofi_badge_dark.png)](https://ko-fi.com/digreatbrian)
 
 ---
 
