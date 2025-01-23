@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Musakwa 👋
 
-![Welcome Banner](https://via.placeholder.com/900x250.png?text=Welcome+to+Brian's+GitHub+World)
+![Welcome Banner](./welcome-light.png)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Duck Framework](https://github.com/digreatbrian/duck-framework)
