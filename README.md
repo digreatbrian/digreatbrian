@@ -18,8 +18,8 @@
 ---
 
 ## 💼 Projects & Portfolio
-🌐 **[My Portfolio](https://digreatbrian.tech)**  
-Explore more projects and tools on my website! For a detailed list of my projects, visit [My Projects](https://digreatbrian.tech/projects).
+🌐 **[My Portfolio](https://www.digreatbrian.tech)**  
+Explore more projects and tools on my website! For a detailed list of my projects, visit [My Projects](https://www.digreatbrian.tech/projects)
 
 ### Key Projects
 - 🛠️ [Duck Framework](https://github.com/digreatbrian/duck-framework)  
@@ -68,7 +68,7 @@ Do you enjoy my projects or find them helpful? Consider supporting me on Ko-fi! 
 
 ## 💬 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digreatbrian/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://digreatbrian.tech)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.brianmusakwa.link)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digreatbrian)
 - [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/digreatbrian)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cuJEGR26TM)
