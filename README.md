@@ -1,11 +1,9 @@
-# Hi there, I'm Brian Musakwa 👋
+# Hi there 👋
 
-![Welcome Banner](./welcome-light.png)
+![Welcome Banner](./welcome-dark.png)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Duck Framework](https://github.com/digreatbrian/duck-framework)
-- 🌱 I’m learning **Node.js**, **Firebase**, and **React Native**
-- 👨‍💻 I create **web** and **mobile apps** using **Kivy**, **Django**, and **React**
+- 🔭 I’m currently working on [Duck Framework](https://github.com/digreatbrian/duck-framework) and I will keep working on it.
 - 📫 Reach me at [digreatbrian@gmail.com](mailto:digreatbrian@gmail.com)
 
 ---
