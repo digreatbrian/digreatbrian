@@ -15,18 +15,6 @@
 
 ---
 
-## 💼 Projects & Portfolio
-🌐 **[My Portfolio](https://www.digreatbrian.tech)**  
-Explore more projects and tools on my website! For a detailed list of my projects, visit [My Projects](https://www.digreatbrian.tech/projects)
-
-### Key Projects
-- 🛠️ [Duck Framework](https://github.com/digreatbrian/duck-framework)  
-  A Python-based webserver and framework that integrates with Django.
-- 📊 [TMH Tool](http://tmh-zw.me)  
-  A tool for highlighting timetable modules in Excel for better accessibility.
-
----
-
 ## 🛠 Skills
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,29 +26,13 @@ Explore more projects and tools on my website! For a detailed list of my project
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Kivy](https://img.shields.io/badge/Kivy-4B0082?style=for-the-badge&logo=kivy&logoColor=white)
-![KivyMD](https://img.shields.io/badge/KivyMD-3F51B5?style=for-the-badge&logo=kivy&logoColor=white)
-![Wagtail](https://img.shields.io/badge/Wagtail-86A5D2?style=for-the-badge&logo=wagtail&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 
 ## 💖 Support My Work
-Do you enjoy my projects or find them helpful? Consider supporting me on Ko-fi! Your contributions help me dedicate more time to developing awesome tools and open-source projects.  
+Consider supporting me on Ko-fi! Thanks for your support! 
 
 
 [![Ko-fi](./support_me_on_kofi_badge_dark.png)](https://ko-fi.com/digreatbrian)
-
----
-
-## ✨ Fun Fact
-🌟 **I’m always eager to learn new technologies and improve my skill set!**
 
 ---
 
