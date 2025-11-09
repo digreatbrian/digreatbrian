@@ -3,7 +3,7 @@
 ![Welcome Banner](./welcome-dark.png)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Duck Framework](https://github.com/digreatbrian/duck-framework) and I will keep working on it.
+- 🔭 I’m currently working on [Duck Framework](https://github.com/duckframework/duck) and I will keep working on it.
 - 📫 Reach me at [digreatbrian@gmail.com](mailto:digreatbrian@gmail.com)
 
 ---
