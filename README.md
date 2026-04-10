@@ -8,13 +8,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=digreatbrian&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=digreatbrian&layout=compact&theme=radical)
-
----
-
 ## 🛠 Skills
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
