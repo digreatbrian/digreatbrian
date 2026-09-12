@@ -21,11 +21,11 @@
 
 ---
 
-## 💖 Support My Work
+## 💖 Support My Work (Duck Framework)
 Consider supporting me on Ko-fi! Thanks for your support! 
 
 
-[![Ko-fi](./support_me_on_kofi_badge_dark.png)](https://ko-fi.com/digreatbrian)
+[![Ko-fi](./support_me_on_kofi_badge_dark.png)](https://ko-fi.com/duckframework)
 
 ---
 
